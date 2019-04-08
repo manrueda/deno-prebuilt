@@ -1,6 +1,6 @@
 {
   "name": "deno-prebuilt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "binVersion": "0.3.6",
   "description": "npm package to install deno (https://deno.land) pre-built binary",
   "main": "index.js",
