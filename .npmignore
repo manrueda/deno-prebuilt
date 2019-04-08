@@ -2,4 +2,3 @@
 .bin/deno.gz
 .bin/deno.exe
 .bin/deno.zip
-node_modules

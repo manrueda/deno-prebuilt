@@ -9,6 +9,7 @@
     "install": "node install.js"
   },
   "files": [
+    ".bin/.gitkeep",
     "bin.js",
     "index.js",
     "install.js",
