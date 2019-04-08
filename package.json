@@ -6,7 +6,8 @@
   "main": "index.js",
   "bin": "bin.js",
   "scripts": {
-    "install": "node install.js"
+    "install": "node install.js",
+    "test": "tap test.js"
   },
   "files": [
     ".bin/.gitkeep",
@@ -35,5 +36,8 @@
   "homepage": "https://github.com/manrueda/deno-prebuilt#readme",
   "dependencies": {
     "yauzl": "^2.10.0"
+  },
+  "devDependencies": {
+    "tap": "^12.6.1"
   }
 }
