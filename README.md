@@ -1,4 +1,4 @@
-# deno-prebuilt
+# deno-prebuilt [![Build Status](https://travis-ci.org/manrueda/deno-prebuilt.svg?branch=master)](https://travis-ci.org/manrueda/deno-prebuilt)
 
 npm package to install [deno](https://deno.land) pre-built binary.
 
