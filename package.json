@@ -1,0 +1,38 @@
+{
+  "name": "deno-prebuilt",
+  "version": "1.0.0",
+  "binVersion": "0.3.6",
+  "description": "npm package to install deno (https://deno.land) pre-built binary",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "files": [
+    "bin.js",
+    "index.js",
+    "install.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manrueda/deno-prebuilt.git"
+  },
+  "keywords": [
+    "deno",
+    "pre",
+    "built",
+    "binary",
+    "cli"
+  ],
+  "author": "Manuel Rueda <manuel.rueda.un@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manrueda/deno-prebuilt/issues"
+  },
+  "homepage": "https://github.com/manrueda/deno-prebuilt#readme",
+  "dependencies": {
+    "yauzl": "^2.10.0"
+  }
+}
